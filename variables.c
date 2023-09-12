@@ -17,4 +17,6 @@ int main(void)
   
 
   printf("Le prix d'un paquet de cigarette est de %.2f, parce que la tva est de %d sinon le paquet serait à %d. Avant il était à %f /n", prix, tva, prix2, prix3);
+
+  return 0;
 }
