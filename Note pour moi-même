@@ -1,0 +1,11 @@
+Si vous êtes ici par hazard, fuyezzzz. C'est le gros bordel. Déjà, je ne sais pas comment faire un push sur GItHub (pas encore) et dans mon cerveau c'est Bagdad donc impossible que vous compreniez ma logique.
+
+JOUR 1: Installation environnement de travail
+- Installation de MinGW (COmpilateur) --- Bien faire gaffe à mettre le fichier bin dans les variables d'environnement (path)
+- Configurer VScode (c/++ et code runner)
+
+JOUR 2: 
+- Essayer de comprendre la logique du langage C, C'est un langage de bas niveau, le C est directement compilé en binaire. 
+- GITHub c'est super important donc je pense très prochainement apprendre à mon servir en attendant lorsque j'essaye de faire un push en suivant la doc j'ai cette erreure "remote: Permission to Jimexmachina/Apprentissage-C.git denied to jimdrt.
+fatal: unable to access 'https://github.com/Jimexmachina/Apprentissage-C.git/': The requested URL returned error: 403"
+- Apprentissage des variables
