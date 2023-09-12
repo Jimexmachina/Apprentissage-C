@@ -1,3 +1,5 @@
+//EN VRAI J'AI PLUS DE MAL A PUSH MES FICHIERS QU'A APPRENDRE LE C PUTAIN 
+
 /*
 Inclusion de la Bibliothèque "stdio.h pour la fonction C "printf"
 */
@@ -6,6 +8,16 @@ Inclusion de la Bibliothèque "stdio.h pour la fonction C "printf"
 int main(void)
 {
     printf("Bonjour tout le monde \n");
-  /*Ici on retourne 0 comme dit plus haut*/
-    return 0;
-}
+  /*Ici on retourne 0 comme dit plus haut
+  
+  
+  
+  
+  OUTILS
+  COMPILER NOTRE PROGRAMME
+  gcc NOMDUFICHIER.c -o NOMSOUHAITÉ
+  ex: gcc main.c -o hello
+
+  LANCER EXECUTABLE
+  PS C:\Users\Jimmy\OneDrive\Bureau\C> .\\hello.exe
+  */
