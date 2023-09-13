@@ -1,4 +1,3 @@
-Si vous êtes ici par hazard, fuyezzzz. C'est le gros bordel. Déjà, je ne sais pas comment faire un push sur GItHub (pas encore) et dans mon cerveau c'est Bagdad donc impossible que vous compreniez ma logique.
 
 JOUR 1: Installation environnement de travail
 - Installation de MinGW (COmpilateur) --- Bien faire gaffe à mettre le fichier bin dans les variables d'environnement (path)
@@ -6,16 +5,11 @@ JOUR 1: Installation environnement de travail
 
 JOUR 2: 
 - Essayer de comprendre la logique du langage C, C'est un langage de bas niveau, le C est directement compilé en binaire. 
-- GITHub c'est super important donc je pense très prochainement apprendre à mon servir en attendant lorsque j'essaye de faire un push en suivant la doc j'ai cette erreure "remote: Permission to Jimexmachina/Apprentissage-C.git denied to jimdrt.
-fatal: unable to access 'https://github.com/Jimexmachina/Apprentissage-C.git/': The requested URL returned error: 403"
 - Apprentissage des variables
 
 JOUR 3: (La programmation peut faire croire à quelqu'un d'intelligent qu'il est complétement débile :))
-- Je me suis foutu une grosse cuite hier et je me suis quand même levé à 7H40 pour résoudre un exercice "simple" (The descent) sur CodinGame. J'ai bloqué dessus 1h mais chat GPT à trouvé la solution. J'y été presque 
-mais je ne sais pas si je dois être fier de moi. J'ai mis du temps o comprendre la solution mais je suis au moins fier de l'avoir comprise. 
-- AH oui je pense que je vais former sur GitHUB lors du prochain projet, sinon ça va trop foutre le bordel.
-- EN vrai j'ai fait pas mal de développement web et apres un nouveau clash of code je me rend compte que j'ai pas assez travaillé sur l'algorithmie, en plus d'un apprentissage régulier en C, il faut que je fasse des exercices d'algo.
 - Avec le langage C 0 = TRUE et 1 = FALSE, ça veut dire que si je veux quitter le programme je peux inserer "return = 1" pour quitter le programme. 
+- J'ai eu un problème concernant la concatenation, pour concaténer une variable j'ai fait comme ceci "x+2;" dans une boucle, alors qu'il faut faire "x+=2";
 
 
 
