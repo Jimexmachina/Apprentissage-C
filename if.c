@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+// Deuxième syntaxe pour les courtes conditions
+// (age > 0) ? printf("tu es en vie") : printf("Tu n'es pas en vie");
 int main(void)
 {
     int age = -1;
