@@ -1,0 +1,40 @@
+La programmation modulaire consiste à oragniser son code.
+
+Je veux insérer dans ma function principale main une fonction bonjour().
+-1 Création d'un fichier bonjour.h dans lequel j'insère le prototype de ma function bonjour()
+// Sécurité pour compilation
+#ifndef BONJOUR_H
+#define BONJOUR_H
+
+// PROTOTYPES
+void bonjour(void);
+
+// Fin sécurité
+#endif
+
+-2 CReation du fichier bonjour.c ou j'y insère ma function
+#include <stdio.h>
+
+#include "bonjour.h" // <---------------------- PROTOTYPE de la function bonjour() dans bonjour.h
+
+// FONCTIONS
+void bonjour()
+{
+    printf("bonjour \n");
+}
+
+-3 Aperçu de mon fichier main.c 
+#include <stdio.h>
+// "" Inclusion du module bonjour.h
+#include "bonjour.h" // <---------------------- PROTOTYPE dans bonjour.h
+
+int main(void)
+{
+    int level = 15;
+    printf("Niveau actuel : %d\n", level);
+
+    level = reset_niveau();
+    printf("Niveau apres reset : %d\n", level);
+
+    return 0;
+}
